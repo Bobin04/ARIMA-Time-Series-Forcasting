@@ -1,7 +1,7 @@
 # ARIMA and Seasonal ARIMA
 # Autoregressive Integrated Moving Averages
 
-# Main point to look into Arima and Sarimax is 
+
 #     1)Auto Regression - p
 #     2)Differencing    - d
 #     3)Moving Average  - q
